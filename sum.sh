@@ -2,7 +2,8 @@
 #echo "Enter the number to find sum of first n numbers"
 #read num
 #echo " cmd line argument $1"
-echo " parameter num inside inside $num"
+#echo " parameter num inside inside $num"
+num= "$1"
 sum=0
 while [ $num -gt 0 ]
 do
