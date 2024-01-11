@@ -1,8 +1,8 @@
 #!/bin/bash
 #echo "Enter the number to find sum of first n numbers"
 #read num
-echo $1
-echo $num
+echo " cmd line argument $1"
+echo " parameter num inside inside $num"
 sum=0
 while [ $num -gt 0 ]
 do
