@@ -1,7 +1,8 @@
 #!/bin/bash
-echo "Enter the number to find sum of first n numbers"
-read num
+#echo "Enter the number to find sum of first n numbers"
+#read num
 sum=0
+num=$1
 while [ $num -gt 0 ]
 do
 	sum=`expr $sum + $num`
