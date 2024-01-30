@@ -1,0 +1,37 @@
+NOTICE
+PATH: /home/ubuntu
+Noticeform.md
+Grant of Copyright License. 
+
+PATH: /home/ubuntu/lock
+NoticeDependencies.txt
+Bundling a dependency which is issued under one of the following licenses is straightforward, 
+assuming that license applies uniformly to all files within the dependency:
+
+PATH: /home/ubuntu/lock
+notice1.md
+Copyright 2024, The Apache Software Foundation, Licensed under the Apache License, Version 2.0.
+Apache® and the Apache feather logo are trademarks of The Apache Software Foundation...
+
+PATH: /home/ubuntu/lock/dir
+noticefile.txt
+All redistributions must obey the licensing requirements of the contents.
+
+PATH: /home/ubuntu/pythonScript
+notice.txt
+Derivative Works a copy of this License
+
+LICENSE
+PATH: /home/ubuntu
+Licenseform.md
+This software incorporates material from third parties.
+
+PATH: /home/ubuntu/lock/dir
+License.md
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+PATH: /home/ubuntu/pythonScript
+license.txt
+Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor
